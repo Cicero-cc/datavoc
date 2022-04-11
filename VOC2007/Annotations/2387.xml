@@ -1,0 +1,63 @@
+<annotation>
+<folder>JPEGImages</folder>
+<filename>2387.jpg</filename>
+<path>C:\Users\Administrator\Desktop\JPEGImages\2387.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>608</width>
+    <height>608</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>bus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>128</xmin>
+        <ymin>32</ymin>
+        <xmax>605</xmax>
+        <ymax>605</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>screen</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>468</xmin>
+        <ymin>343</ymin>
+        <xmax>516</xmax>
+        <ymax>391</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>bus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>52</xmin>
+        <ymin>267</ymin>
+        <xmax>133</xmax>
+        <ymax>419</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>bus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>31</xmin>
+        <ymin>305</ymin>
+        <xmax>54</xmax>
+        <ymax>378</ymax>
+    </bndbox>
+</object>
+</annotation>

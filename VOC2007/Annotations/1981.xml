@@ -1,0 +1,51 @@
+<annotation>
+<folder>JPEGImages</folder>
+<filename>1981.jpg</filename>
+<path>C:\Users\Administrator\Desktop\JPEGImages\1981.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>608</width>
+    <height>608</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>bus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>154</xmin>
+        <ymin>187</ymin>
+        <xmax>338</xmax>
+        <ymax>453</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>screen</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>275</xmin>
+        <ymin>209</ymin>
+        <xmax>295</xmax>
+        <ymax>231</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>bus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>128</xmin>
+        <ymin>284</ymin>
+        <xmax>156</xmax>
+        <ymax>370</ymax>
+    </bndbox>
+</object>
+</annotation>

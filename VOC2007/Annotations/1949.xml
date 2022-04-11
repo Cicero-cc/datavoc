@@ -1,0 +1,39 @@
+<annotation>
+<folder>JPEGImages</folder>
+<filename>1949.jpg</filename>
+<path>C:\Users\Administrator\Desktop\JPEGImages\1949.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>608</width>
+    <height>608</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>screen</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>384</xmin>
+        <ymin>246</ymin>
+        <xmax>392</xmax>
+        <ymax>258</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>bus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>346</xmin>
+        <ymin>223</ymin>
+        <xmax>510</xmax>
+        <ymax>407</ymax>
+    </bndbox>
+</object>
+</annotation>

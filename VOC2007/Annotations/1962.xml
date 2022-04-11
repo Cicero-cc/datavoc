@@ -1,0 +1,51 @@
+<annotation>
+<folder>JPEGImages</folder>
+<filename>1962.jpg</filename>
+<path>C:\Users\Administrator\Desktop\JPEGImages\1962.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>608</width>
+    <height>608</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>bus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>167</xmin>
+        <ymin>279</ymin>
+        <xmax>229</xmax>
+        <ymax>399</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>screen</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>194</xmin>
+        <ymin>287</ymin>
+        <xmax>207</xmax>
+        <ymax>299</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>bus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>139</xmin>
+        <ymin>313</ymin>
+        <xmax>169</xmax>
+        <ymax>366</ymax>
+    </bndbox>
+</object>
+</annotation>

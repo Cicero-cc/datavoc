@@ -1,0 +1,39 @@
+<annotation>
+<folder>JPEGImages</folder>
+<filename>2210.jpg</filename>
+<path>C:\Users\Administrator\Desktop\JPEGImages\2210.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>608</width>
+    <height>608</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>bus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>335</xmin>
+        <ymin>243</ymin>
+        <xmax>477</xmax>
+        <ymax>423</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>screen</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>368</xmin>
+        <ymin>262</ymin>
+        <xmax>381</xmax>
+        <ymax>275</ymax>
+    </bndbox>
+</object>
+</annotation>

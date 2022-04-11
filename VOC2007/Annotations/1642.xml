@@ -1,0 +1,39 @@
+<annotation>
+<folder>JPEGImages-new</folder>
+<filename>1642.jpg</filename>
+<path>E:\work\bishe\download\VOCbus\JPEGImages-new\1642.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>608</width>
+    <height>608</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>bus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>53</xmin>
+        <ymin>117</ymin>
+        <xmax>438</xmax>
+        <ymax>564</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>screen</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>190</xmin>
+        <ymin>337</ymin>
+        <xmax>205</xmax>
+        <ymax>367</ymax>
+    </bndbox>
+</object>
+</annotation>

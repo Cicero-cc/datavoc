@@ -1,0 +1,51 @@
+<annotation>
+<folder>JPEGImages</folder>
+<filename>2344.jpg</filename>
+<path>C:\Users\Administrator\Desktop\JPEGImages\2344.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>608</width>
+    <height>608</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>bus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>242</xmin>
+        <ymin>178</ymin>
+        <xmax>481</xmax>
+        <ymax>490</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>screen</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>277</xmin>
+        <ymin>218</ymin>
+        <xmax>293</xmax>
+        <ymax>240</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>bus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>523</xmin>
+        <ymin>308</ymin>
+        <xmax>550</xmax>
+        <ymax>329</ymax>
+    </bndbox>
+</object>
+</annotation>
